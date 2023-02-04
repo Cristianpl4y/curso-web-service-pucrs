@@ -1,0 +1,14 @@
+{
+  "name": "exemploclientesoapcorreios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "correios.js",
+  "scripts": {
+    "start": "node correios.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^1.0.0"
+  }
+}
